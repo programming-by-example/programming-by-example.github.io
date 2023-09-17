@@ -1,9 +1,13 @@
 body{
 	background-color: #001100;
-	color: lightgreen;
+	color: #98FB98;
 	max-width: 600px;
 	margin-left: auto;
 	margin-right: auto;
+	display: flex;
+    	flex-wrap: wrap;
+    	box-sizing: border-box;
+    	border-bottom: 0.5rem solid
 }
 
 h1{
